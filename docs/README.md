@@ -1,6 +1,6 @@
 READ.ME
 
-Para insertar el favicon me guie con las instrucciones de [KEEP CODING](https://keepcoding.io/blog/favicon-en-html/ ademas de crear mi propio favicon en linea con [FAVICON GENERATOR](https://www.websiteplanet.com/es/webtools/favicon-generator/)
+Para insertar el favicon me guie con las instrucciones de [KEEP CODING](https://keepcoding.io/blog/favicon-en-html/) ademas de crear mi propio favicon en linea con [FAVICON GENERATOR](https://www.websiteplanet.com/es/webtools/favicon-generator/)
 
 Primero no sabia que era un favicon así que creé el mío en la página de generadora de favicon, en un comienzo no entendía los códigos, pero intuitivamente me di cuenta que si la imagen no estaba en la carpeta docs no la podia adjuntar por ende guiandome de distintos ejemplos logre incorporar mi propio código y favicon, fue muy gratificante ver el resultado porque estuve harto rato tratando de descifrar cómo se insertaba, pero esto me ayudo a luego saber cómo insertar una image 
 
